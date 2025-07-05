@@ -1,0 +1,1 @@
+Il faut une fichier .env pour utiliser correctement l'API.
